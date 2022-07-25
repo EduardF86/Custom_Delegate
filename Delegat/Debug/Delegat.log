@@ -1,0 +1,20 @@
+﻿  Delegat.cpp
+D:\Projects\Delegate\Delegat\Delegat.cpp(10,16): error C3872: 0x2021: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(10,16): warning C4455: "operator ""РјРµРґСЏС‡РѕРє": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+D:\Projects\Delegate\Delegat\Delegat.cpp(11,16): error C3872: 0x2020: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(11,16): error C3872: 0xbb: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(11,16): error C3872: 0x2039: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(11,16): warning C4455: "operator ""С†РµР»РєРѕРІС‹Р№": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+D:\Projects\Delegate\Delegat\Delegat.cpp(12,16): error C3872: 0xbb: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(12,16): error C3872: 0xb0: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(12,16): warning C4455: "operator ""РїРѕР»СѓС€РєР°": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+D:\Projects\Delegate\Delegat\Delegat.cpp(13,16): error C3872: 0xb0: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(13,16): warning C4455: "operator ""РїРµСЂРґСѓС€РєР°": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+D:\Projects\Delegate\Delegat\Delegat.cpp(14,16): error C3872: 0xb0: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(14,16): error C3872: 0x2021: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(14,16): warning C4455: "operator ""РјСѓРґР°С‡РѕРє": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+D:\Projects\Delegate\Delegat\Delegat.cpp(15,16): error C3872: 0x2026: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(15,16): error C3872: 0xb0: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(15,16): error C3872: 0x201a: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(15,16): error C3872: 0x2021: этот символ невозможно использовать в идентификаторе
+D:\Projects\Delegate\Delegat\Delegat.cpp(15,16): warning C4455: "operator ""С…СѓР№_РЅР°_РІРѕСЂРѕС‚РЅРёС‡РµРє": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
